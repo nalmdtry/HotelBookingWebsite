@@ -1,0 +1,215 @@
+2025-12-02T16:23:04+07:00 - PAYLOAD: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => ORD_29758991
+    [requestId] => REQ_26486727
+    [amount] => 1600000
+    [orderInfo] => Thanh toán qua mã ATM
+    [orderType] => momo_wallet
+    [transId] => 4621517133
+    [resultCode] => 0
+    [message] => Successful.
+    [payType] => napas
+    [responseTime] => 1764667380192
+    [extraData] => {"user_id":2,"room_id":2,"room_name":"Ph\u00f2ng 2","price":800000,"amount":1600000,"name":"V\u00f5 Ng\u1ecdc L\u00e2m","phonenum":"0795624652","address":"Duy Trinh, Duy Xuy\u00ean, Qu\u1ea3ng Nam","checkin":"2025-12-02","checkout":"2025-12-04"}
+    [signature] => 8b35609ac2f0bc0ef7a5e9a9e4b01ae249f8fde6bdc1e3b0cbf51f6285421257
+)
+
+2025-12-02T17:18:44+07:00 - PAYLOAD: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => ORD_2742130
+    [requestId] => REQ_24752509
+    [amount] => 1800000
+    [orderInfo] => Thanh toán qua mã ATM
+    [orderType] => momo_wallet
+    [transId] => 4621124640
+    [resultCode] => 0
+    [message] => Successful.
+    [payType] => napas
+    [responseTime] => 1764670720445
+    [extraData] => {"user_id":2,"room_id":3,"room_name":"Ph\u00f2ng 3","price":900000,"amount":1800000,"name":"V\u00f5 Ng\u1ecdc L\u00e2m","phonenum":"0795624652","address":"Duy Trinh, Duy Xuy\u00ean, Qu\u1ea3ng Nam","checkin":"2025-12-02","checkout":"2025-12-04"}
+    [signature] => 08dbe5c43c33e2bb9502d23066c082b1298370a73ab7e8e94581ed5e4bbb9f4a
+)
+
+2025-12-02T17:18:44+07:00 - UPDATED booking_id=6 resultCode=0
+2025-12-02T20:45:53+07:00 - PAYLOAD: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => ORD_2107440
+    [requestId] => REQ_23633348
+    [amount] => 2250000
+    [orderInfo] => Thanh toán qua mã ATM
+    [orderType] => momo_wallet
+    [transId] => 4621639600
+    [resultCode] => 1002
+    [message] => Transaction rejected by the issuers of the payment accounts.
+    [payType] => napas
+    [responseTime] => 1764683150009
+    [extraData] => {"user_id":2,"room_id":1,"room_name":"Ph\u00f2ng 1","price":750000,"amount":2250000,"name":"V\u00f5 Ng\u1ecdc L\u00e2m","phonenum":"0795624652","address":"Duy Trinh, Duy Xuy\u00ean, Qu\u1ea3ng Nam","checkin":"2025-12-02","checkout":"2025-12-05"}
+    [signature] => 244660287b59f3645e2ece9913c90d89a2ca4ef4caf03f95b5a1d635f3af5988
+)
+
+2025-12-02T20:45:53+07:00 - UPDATED booking_id=7 resultCode=1002
+2025-12-02T21:15:37+07:00 - PAYLOAD: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => ORD_2333062
+    [requestId] => REQ_25265670
+    [amount] => 1500000
+    [orderInfo] => Thanh toán qua mã ATM
+    [orderType] => momo_wallet
+    [transId] => 4621720348
+    [resultCode] => 0
+    [message] => Successful.
+    [payType] => napas
+    [responseTime] => 1764684934510
+    [extraData] => {"user_id":2,"room_id":1,"room_name":"Ph\u00f2ng 1","price":750000,"amount":1500000,"name":"V\u00f5 Ng\u1ecdc L\u00e2m","phonenum":"0795624652","address":"Duy Trinh, Duy Xuy\u00ean, Qu\u1ea3ng Nam","checkin":"2025-12-02","checkout":"2025-12-04"}
+    [signature] => a49ca715d9c84561f8b1835a1f379dda6ae8e796390d9df8dd59dadaaf57c1db
+)
+
+2025-12-02T21:15:37+07:00 - UPDATED booking_id=8 resultCode=0
+2025-12-04T20:10:23+07:00 - PAYLOAD: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => ORD_24347728
+    [requestId] => REQ_2619703
+    [amount] => 800000
+    [orderInfo] => Thanh toán qua mã ATM
+    [orderType] => momo_wallet
+    [transId] => 4623091567
+    [resultCode] => 0
+    [message] => Successful.
+    [payType] => napas
+    [responseTime] => 1764853820304
+    [extraData] => {"user_id":2,"room_id":2,"room_name":"Ph\u00f2ng 2","price":800000,"amount":800000,"name":"V\u00f5 Ng\u1ecdc L\u00e2m","phonenum":"0795624652","address":"Duy Trinh, Duy Xuy\u00ean, Qu\u1ea3ng Nam","checkin":"2025-12-07","checkout":"2025-12-08"}
+    [signature] => 1f26eec2979e6f91a644c034947d260a5bcd45309db7f3aa8233fcd478fe588a
+)
+
+2025-12-04T20:10:23+07:00 - UPDATED booking_id=9 resultCode=0
+2025-12-05T19:07:06+07:00 - PAYLOAD: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => ORD_27485646
+    [requestId] => REQ_23164904
+    [amount] => 5400000
+    [orderInfo] => Thanh toán qua mã ATM
+    [orderType] => momo_wallet
+    [transId] => 4623425863
+    [resultCode] => 0
+    [message] => Successful.
+    [payType] => napas
+    [responseTime] => 1764936424941
+    [extraData] => {"user_id":2,"room_id":3,"room_name":"Ph\u00f2ng 3","price":900000,"amount":5400000,"name":"V\u00f5 Ng\u1ecdc L\u00e2m","phonenum":"0763023690","address":"Duy Xuy\u00ean, \u0110\u00e0 N\u1eb5ng","checkin":"2025-12-07","checkout":"2025-12-13"}
+    [signature] => 4245b2e9a84f57abe5853dd8bca49776b9b9dc4619367cdd2bb40b3e1263d14f
+)
+
+2025-12-05T19:07:06+07:00 - UPDATED booking_id=10 resultCode=0
+2025-12-05T19:09:03+07:00 - PAYLOAD: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => ORD_25192359
+    [requestId] => REQ_24341862
+    [amount] => 2700000
+    [orderInfo] => Thanh toán qua mã ATM
+    [orderType] => momo_wallet
+    [transId] => 4623435838
+    [resultCode] => 0
+    [message] => Successful.
+    [payType] => napas
+    [responseTime] => 1764936542156
+    [extraData] => {"user_id":2,"room_id":3,"room_name":"Ph\u00f2ng 3","price":900000,"amount":2700000,"name":"V\u00f5 Ng\u1ecdc L\u00e2m","phonenum":"0763023690","address":"Duy Xuy\u00ean, \u0110\u00e0 N\u1eb5ng","checkin":"2025-12-11","checkout":"2025-12-14"}
+    [signature] => 7c0b0aa0e3feaa3d50e8de0364f0d1d930f100c1bb8be0b4cc4166e075b69b4b
+)
+
+2025-12-05T19:09:03+07:00 - UPDATED booking_id=11 resultCode=0
+2025-12-05T20:06:06+07:00 - PAYLOAD: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => ORD_25162770
+    [requestId] => REQ_21814103
+    [amount] => 1500000
+    [orderInfo] => Thanh toán qua mã ATM
+    [orderType] => momo_wallet
+    [transId] => 4623463305
+    [resultCode] => 0
+    [message] => Successful.
+    [payType] => napas
+    [responseTime] => 1764939964831
+    [extraData] => {"user_id":2,"room_id":1,"room_name":"Ph\u00f2ng 1","price":750000,"amount":1500000,"name":"V\u00f5 Ng\u1ecdc L\u00e2m","phonenum":"0763023690","address":"Duy Xuy\u00ean, \u0110\u00e0 N\u1eb5ng","checkin":"2025-12-14","checkout":"2025-12-16"}
+    [signature] => a703b67aca09ca16bc40c7afec9137f5c2d91be1cd6c1d0f6b70b369ae386c04
+)
+
+2025-12-05T20:06:06+07:00 - UPDATED booking_id=12 resultCode=0
+2025-12-10T11:13:10+07:00 - PAYLOAD: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => ORD_55048164
+    [requestId] => REQ_53232155
+    [amount] => 1800000
+    [orderInfo] => Thanh toán qua mã ATM
+    [orderType] => momo_wallet
+    [transId] => 4626326400
+    [resultCode] => 0
+    [message] => Successful.
+    [payType] => napas
+    [responseTime] => 1765339988639
+    [extraData] => {"user_id":5,"room_id":3,"room_name":"Ph\u00f2ng 3","price":900000,"amount":1800000,"name":"V\u00f5 Ng\u1ecdc L\u00e2m","phonenum":"0999999988","address":"\u0110\u00e0 N\u1eb5ng","checkin":"2025-12-14","checkout":"2025-12-16"}
+    [signature] => dc465827bcc1045c43bc630aad0a2a7e9102b7700ff6c026afd80be66057f1a0
+)
+
+2025-12-10T11:13:10+07:00 - UPDATED booking_id=13 resultCode=0
+2025-12-10T15:16:08+07:00 - PAYLOAD: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => ORD_53915083
+    [requestId] => REQ_546825
+    [amount] => 900000
+    [orderInfo] => Thanh toán qua mã ATM
+    [orderType] => momo_wallet
+    [transId] => 1765354566383
+    [resultCode] => 1006
+    [message] => Giao dịch bị từ chối bởi người dùng.
+    [payType] => 
+    [responseTime] => 1765354566386
+    [extraData] => {"user_id":5,"room_id":3,"room_name":"Ph\u00f2ng 3","price":900000,"amount":900000,"name":"V\u00f5 Ng\u1ecdc L\u00e2m","phonenum":"0999999988","address":"\u0110\u00e0 N\u1eb5ng","checkin":"2025-12-24","checkout":"2025-12-25"}
+    [signature] => a012223457aaa6def8268f87bd27f188584f4e451366ac9f72fa69a6de44d580
+)
+
+2025-12-10T15:16:08+07:00 - UPDATED booking_id=14 resultCode=1006
+2025-12-10T15:22:28+07:00 - PAYLOAD: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => ORD_52239634
+    [requestId] => REQ_572526
+    [amount] => 1800000
+    [orderInfo] => Thanh toán qua mã ATM
+    [orderType] => momo_wallet
+    [transId] => 4626377495
+    [resultCode] => 0
+    [message] => Successful.
+    [payType] => napas
+    [responseTime] => 1765354946088
+    [extraData] => {"user_id":5,"room_id":3,"room_name":"Ph\u00f2ng 3","price":900000,"amount":1800000,"name":"V\u00f5 Ng\u1ecdc L\u00e2m","phonenum":"0999999988","address":"\u0110\u00e0 N\u1eb5ng","checkin":"2025-12-16","checkout":"2025-12-18"}
+    [signature] => 839bc34df3c346248debf9c9d92dcc1587d4ccc297fa531e085f15064b2980ba
+)
+
+2025-12-10T15:22:28+07:00 - UPDATED booking_id=15 resultCode=0
+2025-12-16T07:53:23+07:00 - PAYLOAD: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => ORD_58000659
+    [requestId] => REQ_53792840
+    [amount] => 2700000
+    [orderInfo] => Thanh toán qua mã ATM
+    [orderType] => momo_wallet
+    [transId] => 4630337123
+    [resultCode] => 0
+    [message] => Successful.
+    [payType] => napas
+    [responseTime] => 1765846400948
+    [extraData] => {"user_id":5,"room_id":3,"room_name":"Ph\u00f2ng 3","price":900000,"amount":2700000,"name":"V\u00f5 Ng\u1ecdc L\u00e2m","phonenum":"0999999988","address":"\u0110\u00e0 N\u1eb5ng","checkin":"2025-12-18","checkout":"2025-12-21"}
+    [signature] => db5dd1afb183658417f70ba4c30bb3b5e7551ac571f37c6fe7a741de05c2a918
+)
+
+2025-12-16T07:53:23+07:00 - UPDATED booking_id=16 resultCode=0
